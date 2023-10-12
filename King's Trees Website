@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kings Trees - Your Trusted Tree Service</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        .section {
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: white;
+            background-size: cover;
+            background-position: center;
+        }
+        .section h1 {
+            font-size: 3em;
+        }
+        .section p {
+            font-size: 1.2em;
+        }
+        .section-1 {
+            background-image: url('tree-service-1.jpg');
+        }
+        .section-2 {
+            background-image: url('tree-service-2.jpg');
+        }
+        .section-3 {
+            background-image: url('tree-service-3.jpg');
+        }
+    </style>
+</head>
+<body>
+    <div class="section section-1">
+        <h1>Welcome to Kings Trees</h1>
+        <p>Your Trusted Tree Service Provider</p>
+        <p>We are committed to providing seamless, quality, and responsible tree services with your satisfaction in mind. Our focus is on delivering great value while ensuring safety at all times.</p>
+    </div>
+    <div class="section section-2">
+        <h1>Our Legacy</h1>
+        <p>With years of experience, Kings Trees has been a pillar of the community. Our credibility and reputation speak for themselves. We are the preferred choice for all your tree service needs.</p>
+    </div>
+    <div class="section section-3">
+        <h1>Contact Us</h1>
+        <p>Request a free quote today and let us take care of your tree service requirements. Our team is ready to assist you.</p>
+        <p>Contact Information:<br>
+            Phone: (123) 456-7890<br>
+            Email: info@kingstrees.com</p>
+    </div>
+</body>
+</html>
